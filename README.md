@@ -1,6 +1,6 @@
 # Hi, I am GravelCZ
 
-#### I'm a human from Czechia and a developer for Survival-Games.cz
+#### I'm a human from Czechia
 
 - I'm mostly working with Java but I don't mind using C for some applications.
 - #linuxmasterrace
@@ -18,10 +18,9 @@ YES!
 
 ### What do you use?
 - Java - Eclipse, swited to IntellIJ IDEA, not sure I like it
-- C - Eclipse for C/C++
-- PHP, JS, HTML, CSS - VScodium
+- C, PHP, JS, HTML, CSS - VScodium
 
 ### How can I contact you?
 DON'T! PLEASE LEAVE ME ALONE!!!!<br>
-But since you insist so much [here](https://gravel.wetian.eu) is my website<br>
-I won't link my other accounts here. You are here for my code right? No. then leave.
+But since you insist so much [here](https://gravelos.cz) is my website<br>
+I won't link my other accounts here. You are here for my code right? Right?
