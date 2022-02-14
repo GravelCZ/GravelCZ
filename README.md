@@ -23,4 +23,5 @@ YES!
 ### How can I contact you?
 DON'T! PLEASE LEAVE ME ALONE!!!!<br>
 But since you insist so much [here](https://gravelos.cz) is my website<br>
+And gravelcz@gravelos.cz is my email.<br>
 I won't link my other accounts here. You are here for my code right? Right?
